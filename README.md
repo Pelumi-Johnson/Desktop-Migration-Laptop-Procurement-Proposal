@@ -3,7 +3,7 @@
 
  📄 **Full Lab Report:**  
 👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Desktop-Migration-Laptop-Procurement-Proposal/blob/main/Desktop%20Migration%20Proposal.docx.pdf)<br>
-👉 [Click here to open the complete lab screenshots](https://github.com/Pelumi-Johnson/BYOD-Security-Assessment-Device-Compliance-Project/blob/main/Screenshots.pdf)<br>
+👉 [Click here to open the complete lab result 1](https://github.com/Pelumi-Johnson/Desktop-Migration-Laptop-Procurement-Proposal/blob/main/Lenovo%20Cart%20_%20Lenovo%20US%20(1).pdf)<br>
 👉 [Click here to open the complete lab screenshots](https://github.com/Pelumi-Johnson/BYOD-Security-Assessment-Device-Compliance-Project/blob/main/Screenshots.pdf)<br>
 
 ---
